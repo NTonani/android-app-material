@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ntonani/AndroidStudioProjects/androidNanodegree/AppMaterial_Project/android-app-material/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/Users/ntonani/AndroidStudioProjects/androidNanodegree/AppMaterial_Project/android-app-material/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/ntonani/AndroidStudioProjects/androidNanodegree/AppMaterial_Project/android-app-material/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/Users/ntonani/AndroidStudioProjects/androidNanodegree/AppMaterial_Project/android-app-material/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/Users/ntonani/AndroidStudioProjects/androidNanodegree/AppMaterial_Project/android-app-material/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/ntonani/AndroidStudioProjects/androidNanodegree/AppMaterial_Project/android-app-material/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    }
+]
